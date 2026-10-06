@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0011-container-with-most-water/) | Medium |
 | [0049-group-anagrams](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -57,4 +58,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
