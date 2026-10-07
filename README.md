@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0049-group-anagrams/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0217-contains-duplicate/) | Easy |
@@ -15,6 +16,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Greedy
@@ -32,6 +34,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0242-valid-anagram/) | Easy |
