@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0049-group-anagrams/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -73,4 +74,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
