@@ -1,16 +1,26 @@
 class Solution(object):
     def checkInclusion(self, s1, s2):
-        left = 0
-        a = sorted(s1)
+        m = len(s1)
+        if m > len(s2):
+            return False
 
-        for left in range(len(s2) - len(s1)+1):
-            window = s2[left:left+len(s1)]
-            if a != sorted(window):
-                left +=1
-            if a == sorted(window):
+        need = [0] * 26
+        window = [0] * 26
+
+        for char in s1:
+            need[ord(char) - ord("a")] += 1
+
+        for right, char in enumerate(s2):
+            window[ord(char) - ord("a")] += 1
+
+            if right >= m:
+                outgoing = s2[right - m]
+                window[ord(outgoing) - ord("a")] -= 1
+
+            if right >= m - 1 and window == need:
                 return True
-            
-        return False 
+
+        return False
             
             
         
