@@ -48,6 +48,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0242-valid-anagram/) | Easy |
@@ -91,4 +92,12 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0567-permutation-in-string/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
