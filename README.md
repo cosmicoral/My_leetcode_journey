@@ -13,6 +13,7 @@
 | [0217-contains-duplicate](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0704-binary-search](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0739-daily-temperatures/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -83,6 +84,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0704-binary-search](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0704-binary-search/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
