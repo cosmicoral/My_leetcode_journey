@@ -13,6 +13,7 @@
 | [0217-contains-duplicate](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0739-daily-temperatures](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0739-daily-temperatures/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +98,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0155-min-stack/) | Medium |
+| [0739-daily-temperatures](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0739-daily-temperatures/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,4 +107,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0155-min-stack/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
