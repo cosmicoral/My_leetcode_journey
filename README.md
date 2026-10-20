@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0015-3sum/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0049-group-anagrams/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -83,6 +84,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0704-binary-search/) | Easy |
 ## Dynamic Programming
