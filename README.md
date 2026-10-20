@@ -16,6 +16,7 @@
 | [0347-top-k-frequent-elements](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0704-binary-search](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0739-daily-temperatures/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +88,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
