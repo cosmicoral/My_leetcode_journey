@@ -11,6 +11,7 @@
 | [0049-group-anagrams](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0049-group-anagrams/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0200-number-of-islands](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -148,6 +149,7 @@
 | [0098-validate-binary-search-tree](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0200-number-of-islands](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0226-invert-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -155,6 +157,7 @@
 | [0100-same-tree](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0200-number-of-islands](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -168,4 +171,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0098-validate-binary-search-tree/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0200-number-of-islands/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/cosmicoral/My_leetcode_journey/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
